@@ -18,6 +18,7 @@ It supports **resuming from the last message**, handles **FloodWait errors**, an
 ## 📦 Requirements
 
 * Python 3.10+
+* [Telegram API](https://my.telegram.org/auth)
 * [Telethon](https://pypi.org/project/Telethon/)
 * [python-decouple](https://pypi.org/project/python-decouple/)
 
